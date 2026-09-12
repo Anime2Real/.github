@@ -23,14 +23,13 @@
 | 仓库 | 简介 |
 | --- | --- |
 | [Chobits-Chii-TTS](https://github.com/Anime2Real/Chobits-Chii-TTS) | 小叽语音合成模型：GPT-SoVITS v2Pro 微调，权重已发布 · [🤗 Model](https://huggingface.co/chenxin199305/Chobits-Chii-TTS) |
-| [Chobits-Chii-LLM](https://github.com/Anime2Real/Chobits-Chii-LLM) | 小叽日语对话 LLM：Qwen2.5-7B QLoRA 微调（SFT）+ prompt 基线，OpenAI 兼容对话/翻译服务 |
 | [Chobits-Chii-ASR](https://github.com/Anime2Real/Chobits-Chii-ASR) | 小叽语音识别服务：Fun-ASR-Nano-2512 部署 + OpenAI 兼容门面，预留 Qwen3-ASR 切换 |
 
 ### 应用
 
 | 仓库 | 简介 |
 | --- | --- |
-| [Chobits-Chii-Mascot](https://github.com/Anime2Real/Chobits-Chii-Mascot) | AI 桌面精灵「小叽」：Electron + Vite + React 跨平台桌面助手，Live2D 精灵、多厂商 AI 对话、TTS/ASR 语音能力 |
+| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | AI 桌面精灵「小叽」的公开发布渠道：Release 产物与自动更新元数据 |
 
 ## 交流群
 
