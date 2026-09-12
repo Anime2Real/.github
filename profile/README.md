@@ -32,6 +32,15 @@
 | --- | --- |
 | [Chobits-Chii-Mascot](https://github.com/Anime2Real/Chobits-Chii-Mascot) | AI 桌面精灵「小叽」：Electron + Vite + React 跨平台桌面助手，Live2D 精灵、多厂商 AI 对话、TTS/ASR 语音能力 |
 
+## 项目
+
+| 仓库 | 说明 |
+| --- | --- |
+| [Chobits-Chii-Voice](https://github.com/Anime2Real/Chobits-Chii-Voice) | 小叽（CV: 田中理惠）语音数据集：TV 全 24 话提取，487 段约 21.4 分钟，人工标注复听，可用于 TTS / 声音克隆训练 |
+| [Chobits-Chii-TTS](https://github.com/Anime2Real/Chobits-Chii-TTS) | 小叽语音合成模型：基于 GPT-SoVITS v2Pro 在 Chobits-Chii-Voice 数据集上微调，权重已发布 Hugging Face |
+| [Chobits-Chii-ASR](https://github.com/Anime2Real/Chobits-Chii-ASR) | 小叽语音识别服务：Fun-ASR-Nano-2512 部署 + OpenAI 兼容门面，预留 Qwen3-ASR 切换 |
+| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | 小叽桌面精灵（桌宠）的公开发布渠道：Release 产物与自动更新元数据 |
+
 ## 交流群
 
 欢迎加入 QQ 群 **Anime2Real**（群号：809591826），扫码即可加入：
