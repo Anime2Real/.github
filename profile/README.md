@@ -31,6 +31,12 @@
 | --- | --- |
 | [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | AI 桌面精灵「小叽」的公开发布渠道：Release 产物与自动更新元数据 |
 
+### 插件
+
+| 仓库 | 简介 |
+| --- | --- |
+| [Chobits-Chii-DSH](https://github.com/Anime2Real/Chobits-Chii-DSH) | DeepSeek Harness (DSH) Web UI 小叽皮肤插件：中性暖调配色 + 拍立得照片墙 · `dsh-plugin` |
+
 ## 交流群
 
 欢迎加入 QQ 群 **Anime2Real**（群号：809591826），扫码即可加入：
