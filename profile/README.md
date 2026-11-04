@@ -36,6 +36,7 @@
 | 仓库 | 简介 |
 | --- | --- |
 | [Chobits-Chii-DSH](https://github.com/Anime2Real/Chobits-Chii-DSH) | DeepSeek Harness (DSH) Web UI 小叽皮肤插件：中性暖调配色 + 拍立得照片墙 · `dsh-plugin` |
+| [Chobits-Chii-Kimi](https://github.com/Anime2Real/Chobits-Chii-Kimi) | Kimi Code CLI 的小叽主题插件：暖奶油、暖墨与低饱和玫瑰配色，含明暗两套主题与插件自动同步 |
 
 ## 交流群
 
