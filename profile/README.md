@@ -10,7 +10,7 @@
 		<a href="https://madewithlove.org.in"><img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-Love-ff69b4.svg"></a>
 		<a href="https://github.com/Anime2Real"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Anime2Real-181717?logo=github&amp;logoColor=white"></a>
 		<a href="https://huggingface.co/chenxin199305"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Anime2Real-FFD21E?logo=huggingface&amp;logoColor=black"></a>
-		<a href="https://discord.gg/RtEBK2NBVS"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&amp;logoColor=white"></a>
+		<a href="https://discord.gg/nr3a8hfCFp"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&amp;logoColor=white"></a>
 		<a href="https://qm.qq.com/q/Mvv6waayM8"><img alt="QQ" src="https://img.shields.io/badge/QQ-809591826-12B7F5?logo=tencentqq&amp;logoColor=white"></a>
 	</p>
 </div>
@@ -80,13 +80,13 @@ Anime2Real · 群号 809591826</p>
 <td width="50%" valign="top" align="center">
 <p><strong>Discord</strong><br>
 Anime2Real's Server</p>
-<p><a href="https://discord.gg/RtEBK2NBVS"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 邀请二维码" width="170"></a></p>
+<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 邀请二维码" width="170"></a></p>
 <p>扫码或点击加入</p>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>Discord 限额 10 人，欢迎真正热爱二次元、愿意提供积极反馈的同好。</sub></p>
+<p align="center"><sub>Discord 社区已开放，欢迎真正热爱二次元、愿意提供积极反馈的同好。</sub></p>
 
 ## 📄 许可与声明
 
