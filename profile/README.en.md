@@ -67,7 +67,7 @@ These are the currently public repositories. More modules will be opened up grad
 
 ## 💬 Community
 
-Join us to talk about characters, models, and what comes next.
+Join us to talk about characters, models, and what comes next. Fans who genuinely love anime and share constructive feedback are also welcome on Discord.
 
 <table width="100%">
 <tr>
@@ -85,8 +85,6 @@ Anime2Real's Server</p>
 </td>
 </tr>
 </table>
-
-<p align="center"><sub>The Discord community is open to fans who genuinely love anime and share constructive feedback.</sub></p>
 
 ## 📄 License & Disclaimer
 
