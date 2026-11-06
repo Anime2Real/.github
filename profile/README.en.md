@@ -2,7 +2,7 @@
 	<img src="../resource/anime2real-logo.jpg" alt="Anime2Real" width="120" height="120" />
 	<h1>Anime2Real</h1>
 	<p><b>Break through the dimensional barrier!</b></p>
-	<p>Bringing anime characters into the real world with AI — an open-source chain from voice and persona to visuals and everyday companionship.</p>
+	<p>Bringing anime characters into the real world with AI — an open-source chain from voice and persona to visuals and real-world embodiment.</p>
 	<p>
 		<a href="./README.md">简体中文</a> ｜ <a href="./README.ja.md">日本語</a> ｜ <a href="./README.en.md">English</a>
 	</p>
@@ -21,17 +21,17 @@
 
 > **Break the dimensional barrier and bring characters into the real world.**
 
-Anime2Real is an open-source organization turning characters from static designs into interactive presences. From voice data and voice cloning to persona dialogue, visual driving, and desktop companionship, we are building a complete, reproducible, and extensible open-source chain.
+Anime2Real is an open-source organization turning characters from static designs into interactive presences. From voice data and voice cloning to persona dialogue and visual driving, and gradually toward real-world embodiments such as desktop, mobile, and robots, we are building a complete, reproducible, and extensible open-source chain.
 
-- **A complete chain**: data, voice, persona, visuals, and applications connect with each other instead of being scattered pieces.
+- **A complete chain**: data, voice, persona, visuals, and embodiments connect with each other instead of being scattered pieces.
 - **Open and reproducible**: code, data, and models are shared whenever possible to support research and further development.
 - **Respect for creators**: all projects are for study and research only and claim no rights to the original works.
 
-## 🧩 What We Build
+## 🏗️ What We Build
 
-| 01 · Data | 02 · Voice | 03 · Persona | 04 · Visuals | 05 · Application |
+| 01 · Data | 02 · Voice | 03 · Persona | 04 · Visuals | 05 · Embodiment |
 | :---: | :---: | :---: | :---: | :---: |
-| Voice collection & annotation | Speech synthesis / recognition | Dialogue & persona design | Live2D / motion driving | Desktop mascot & plugins |
+| Voice collection & annotation | Speech synthesis / recognition | Dialogue & persona design | Live2D / motion driving | Desktop / mobile / robots |
 
 Each module works on its own, and together they form a complete character pipeline.
 
@@ -56,7 +56,7 @@ These are the currently public repositories. More modules will be opened up grad
 
 | Repository | Description |
 | --- | --- |
-| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | Public release channel for the AI desktop mascot: release artifacts and auto-update metadata |
+| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | Desktop release channel for the AI character: release artifacts and auto-update metadata |
 
 ### 🧩 Plugins
 
@@ -67,7 +67,7 @@ These are the currently public repositories. More modules will be opened up grad
 
 ## 💬 Community
 
-Join us to talk about characters, models, and desktop companionship.
+Join us to talk about characters, models, and what comes next.
 
 <table width="100%">
 <tr>
