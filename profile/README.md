@@ -45,26 +45,23 @@
 ## 交流群
 
 <table width="100%">
-<thead>
-<tr>
-<th align="center" width="50%">QQ</th>
-<th align="center" width="50%">Discord</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td width="50%" valign="top" align="center">
-<p>欢迎加入 QQ 群 <strong>Anime2Real</strong>（群号：809591826），扫码即可加入：</p>
-<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group.jpg" alt="Anime2Real QQ 群二维码" width="180"></a></p>
+<p><strong>QQ 群</strong><br>
+Anime2Real · 群号 809591826</p>
+<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ 群二维码" width="170"></a></p>
+<p>扫码加入</p>
 </td>
 <td width="50%" valign="top" align="center">
-<p>欢迎加入 Discord 服务器 <strong>Anime2Real's Server</strong>：当前限额 10 人，希望真正热爱小叽、愿意提供积极反馈的同好加入。</p>
-<p><a href="https://discord.gg/RtEBK2NBVS"><img src="https://img.shields.io/badge/Discord-Join%20Anime2Real-5865F2?logo=discord&amp;logoColor=white&amp;style=for-the-badge" alt="Join Anime2Real on Discord"></a></p>
-<p><a href="../resource/discord_invite.png"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 邀请二维码" width="180"></a></p>
+<p><strong>Discord</strong><br>
+Anime2Real's Server</p>
+<p><a href="https://discord.gg/RtEBK2NBVS"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 邀请二维码" width="170"></a></p>
+<p>扫码或点击加入</p>
 </td>
 </tr>
-</tbody>
 </table>
+
+<p align="center"><sub>Discord 限额 10 人，欢迎真正热爱小叽、愿意提供积极反馈的同好。</sub></p>
 
 ## 声明
 

@@ -45,26 +45,23 @@ Our current flagship project is **Chii (小叽 / ちぃ)** from *Chobits* — a 
 ## Community
 
 <table width="100%">
-<thead>
-<tr>
-<th align="center" width="50%">QQ</th>
-<th align="center" width="50%">Discord</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td width="50%" valign="top" align="center">
-<p>Join our QQ group <strong>Anime2Real</strong> (group number: 809591826) — scan the QR code to join:</p>
-<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group.jpg" alt="Anime2Real QQ group QR code" width="180"></a></p>
+<p><strong>QQ Group</strong><br>
+Anime2Real · Group 809591826</p>
+<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ group QR code" width="170"></a></p>
+<p>Scan to join</p>
 </td>
 <td width="50%" valign="top" align="center">
-<p>Join the Discord server <strong>Anime2Real's Server</strong> — currently limited to 10 members. We welcome fans who genuinely love Chii and are willing to share constructive feedback.</p>
-<p><a href="https://discord.gg/RtEBK2NBVS"><img src="https://img.shields.io/badge/Discord-Join%20Anime2Real-5865F2?logo=discord&amp;logoColor=white&amp;style=for-the-badge" alt="Join Anime2Real on Discord"></a></p>
-<p><a href="../resource/discord_invite.png"><img src="../resource/discord_invite.png" alt="Anime2Real Discord invite QR code" width="180"></a></p>
+<p><strong>Discord</strong><br>
+Anime2Real's Server</p>
+<p><a href="https://discord.gg/RtEBK2NBVS"><img src="../resource/discord_invite.png" alt="Anime2Real Discord invite QR code" width="170"></a></p>
+<p>Scan or click to join</p>
 </td>
 </tr>
-</tbody>
 </table>
+
+<p align="center"><sub>Discord is limited to 10 members. Fans who genuinely love Chii and share constructive feedback are welcome.</sub></p>
 
 ## Disclaimer
 

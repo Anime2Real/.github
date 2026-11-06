@@ -45,26 +45,23 @@ AI 技術で二次元キャラクターを現実世界へ。
 ## コミュニティ
 
 <table width="100%">
-<thead>
-<tr>
-<th align="center" width="50%">QQ</th>
-<th align="center" width="50%">Discord</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td width="50%" valign="top" align="center">
-<p>QQ グループ <strong>Anime2Real</strong>（グループ番号：809591826）にぜひご参加ください。QR コードから参加できます：</p>
-<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group.jpg" alt="Anime2Real QQ グループの QR コード" width="180"></a></p>
+<p><strong>QQ グループ</strong><br>
+Anime2Real · 809591826</p>
+<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ グループの QR コード" width="170"></a></p>
+<p>QR コードで参加</p>
 </td>
 <td width="50%" valign="top" align="center">
-<p>Discord サーバー <strong>Anime2Real's Server</strong> へようこそ。現在 10 名までの限定です。ちぃを本当に愛し、前向きなフィードバックをくださる方のご参加をお待ちしています。</p>
-<p><a href="https://discord.gg/RtEBK2NBVS"><img src="https://img.shields.io/badge/Discord-Join%20Anime2Real-5865F2?logo=discord&amp;logoColor=white&amp;style=for-the-badge" alt="Join Anime2Real on Discord"></a></p>
-<p><a href="../resource/discord_invite.png"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 招待 QR コード" width="180"></a></p>
+<p><strong>Discord</strong><br>
+Anime2Real's Server</p>
+<p><a href="https://discord.gg/RtEBK2NBVS"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 招待 QR コード" width="170"></a></p>
+<p>QR コードまたはクリックで参加</p>
 </td>
 </tr>
-</tbody>
 </table>
+
+<p align="center"><sub>Discord は 10 名までの限定です。ちぃを本当に愛し、前向きなフィードバックをくださる方を歓迎します。</sub></p>
 
 ## 免責事項
 
