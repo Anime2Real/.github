@@ -67,7 +67,7 @@ These are the currently public repositories. More modules will be opened up grad
 
 ## 💬 Community
 
-Join us to talk about characters, models, and what comes next. Fans who genuinely love anime and share constructive feedback are also welcome on Discord.
+If you truly love anime, join our community (QQ or Discord) to talk about characters, models, and what comes next.
 
 <table width="100%">
 <tr>
