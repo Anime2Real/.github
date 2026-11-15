@@ -57,6 +57,7 @@ Anime2Real は、キャラクターを静的な設定から対話できる存在
 | リポジトリ | 概要 |
 | --- | --- |
 | [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | AI キャラクターのデスクトップ向け公開リリースチャンネル：Release 成果物と自動更新メタデータ |
+| [Chobits-Chii-LiveTalk-Release](https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release) | 音声デスクトップアプリ LiveTalk の公開リリースチャンネルとダウンロードページ：macOS / Windows / Linux インストーラーと自動更新メタデータ · [🌐 ダウンロード](https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/) |
 
 ### 🧩 プラグイン
 

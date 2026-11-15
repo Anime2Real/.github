@@ -57,6 +57,7 @@ Anime2Real 是一个开源组织，致力于把「角色」从静态设定变成
 | 仓库 | 简介 |
 | --- | --- |
 | [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | AI 角色的桌面端发布渠道：Release 产物与自动更新元数据 |
+| [Chobits-Chii-LiveTalk-Release](https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release) | 语音桌面端 LiveTalk 的发布渠道与下载主页：macOS / Windows / Linux 安装包与自动更新元数据 · [🌐 下载](https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/) |
 
 ### 🧩 插件
 

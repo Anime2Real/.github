@@ -57,6 +57,7 @@ These are the currently public repositories. More modules will be opened up grad
 | Repository | Description |
 | --- | --- |
 | [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | Desktop release channel for the AI character: release artifacts and auto-update metadata |
+| [Chobits-Chii-LiveTalk-Release](https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release) | Release channel and download page for the voice-first LiveTalk desktop app: macOS / Windows / Linux installers and auto-update metadata · [🌐 Download](https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/) |
 
 ### 🧩 Plugins
 
