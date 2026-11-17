@@ -28,9 +28,26 @@ Anime2Real は、キャラクターを静的な設定から対話できる存在
 
 ## 🏗️ 私たちが作っているもの
 
-| 01 · データ | 02 · 声 | 03 · 人格 | 04 · 姿 | 05 · プラットフォーム |
-| :---: | :---: | :---: | :---: | :---: |
-| 音声の収集・注釈 | 音声合成 / 認識 | 対話と人格設定 | Live2D / モーション | デスクトップ / モバイル / ロボット |
+<table>
+<thead>
+<tr>
+<th align="center" width="190">01 · データ</th>
+<th align="center" width="190">02 · 声</th>
+<th align="center" width="190">03 · 人格</th>
+<th align="center" width="190">04 · 姿</th>
+<th align="center" width="190">05 · プラットフォーム</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">音声の収集・注釈</td>
+<td align="center">音声合成 / 認識</td>
+<td align="center">対話と人格設定</td>
+<td align="center">Live2D / モーション</td>
+<td align="center">デスクトップ / モバイル / ロボット</td>
+</tr>
+</tbody>
+</table>
 
 各モジュールは単独でも使え、組み合わせることでキャラクターの一貫したチェーンになります。
 
@@ -44,40 +61,94 @@ Anime2Real は、キャラクターを静的な設定から対話できる存在
 
 ### 🎙️ データ
 
-| リポジトリ | 概要 |
-| --- | --- |
-| [Chobits-Chii-Voice](https://github.com/Anime2Real/Chobits-Chii-Voice) | キャラクター音声データセット：アニメ全 24 話から抽出、487 セグメント約 21.4 分、人手によるアノテーション＋全数再聴取 · [🤗 Dataset](https://huggingface.co/datasets/chenxin199305/Chobits-Chii-Voice) |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">リポジトリ</th>
+<th align="left" width="720">概要</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Voice">Chobits-Chii-Voice</a></td>
+<td valign="top">キャラクター音声データセット：アニメ全 24 話から抽出、487 セグメント約 21.4 分、人手によるアノテーション＋全数再聴取 · <a href="https://huggingface.co/datasets/chenxin199305/Chobits-Chii-Voice">🤗 Dataset</a></td>
+</tr>
+</tbody>
+</table>
 
 ### 🧠 モデルとサービス
 
-| リポジトリ | 概要 |
-| --- | --- |
-| [Chobits-Chii-TTS](https://github.com/Anime2Real/Chobits-Chii-TTS) | キャラクター音声合成モデル：GPT-SoVITS v2Pro をファインチューニング、重みを公開済み · [🤗 Model](https://huggingface.co/chenxin199305/Chobits-Chii-TTS) |
-| [Chobits-Chii-ASR](https://github.com/Anime2Real/Chobits-Chii-ASR) | 音声認識サービス：Fun-ASR-Nano-2512 をデプロイ＋OpenAI 互換フロントを提供、Qwen3-ASR への切り替えを想定 |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">リポジトリ</th>
+<th align="left" width="720">概要</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-TTS">Chobits-Chii-TTS</a></td>
+<td valign="top">キャラクター音声合成モデル：GPT-SoVITS v2Pro をファインチューニング、重みを公開済み · <a href="https://huggingface.co/chenxin199305/Chobits-Chii-TTS">🤗 Model</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-ASR">Chobits-Chii-ASR</a></td>
+<td valign="top">音声認識サービス：Fun-ASR-Nano-2512 をデプロイ＋OpenAI 互換フロントを提供、Qwen3-ASR への切り替えを想定</td>
+</tr>
+</tbody>
+</table>
 
 ### 🖥️ アプリケーション
 
-| リポジトリ | 概要 |
-| --- | --- |
-| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | AI キャラクターのデスクトップ向け公開リリースチャンネル：Release 成果物と自動更新メタデータ |
-| [Chobits-Chii-LiveTalk-Release](https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release) | 音声デスクトップアプリ LiveTalk の公開リリースチャンネルとダウンロードページ：macOS / Windows / Linux インストーラーと自動更新メタデータ · [🌐 ダウンロード](https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/) |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">リポジトリ</th>
+<th align="left" width="720">概要</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Mascot-Release">Chobits-Chii-Mascot-Release</a></td>
+<td valign="top">AI キャラクターのデスクトップ向け公開リリースチャンネル：Release 成果物と自動更新メタデータ</td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release">Chobits-Chii-LiveTalk-Release</a></td>
+<td valign="top">音声デスクトップアプリ LiveTalk の公開リリースチャンネルとダウンロードページ：macOS / Windows / Linux インストーラーと自動更新メタデータ · <a href="https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/">🌐 ダウンロード</a></td>
+</tr>
+</tbody>
+</table>
 
 ### 🧩 プラグイン
 
-| リポジトリ | 概要 |
-| --- | --- |
-| [Chobits-Chii-DSH](https://github.com/Anime2Real/Chobits-Chii-DSH) | DeepSeek Harness (DSH) Web UI 向けテーマプラグイン：ニュートラルで暖色系の配色＋ポラロイド風フォトウォール · `dsh-plugin` |
-| [Chobits-Chii-Kimi](https://github.com/Anime2Real/Chobits-Chii-Kimi) | Kimi Code CLI 向けテーマプラグイン：ウォームクリーム、ウォームインク、低彩度ローズの配色。ライト／ダーク 2 種類のテーマとプラグイン自動同期を搭載 |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">リポジトリ</th>
+<th align="left" width="720">概要</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-DSH">Chobits-Chii-DSH</a></td>
+<td valign="top">DeepSeek Harness (DSH) Web UI 向けテーマプラグイン：ニュートラルで暖色系の配色＋ポラロイド風フォトウォール · <code>dsh-plugin</code></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Kimi">Chobits-Chii-Kimi</a></td>
+<td valign="top">Kimi Code CLI 向けテーマプラグイン：ウォームクリーム、ウォームインク、低彩度ローズの配色。ライト／ダーク 2 種類のテーマとプラグイン自動同期を搭載</td>
+</tr>
+</tbody>
+</table>
 
 ## 💬 コミュニティ
 
 二次元を本当に愛するあなた、ぜひコミュニティ（QQ または Discord）に参加して、キャラクターやモデル、これからの展開について語り合いましょう。
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 <p><strong>QQ グループ</strong><br>
-Anime2Real · 809591826</p>
+グループ 809591826</p>
 <p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ グループの QR コード" width="170" height="170"></a></p>
 <p>QR コードで参加</p>
 </td>
@@ -89,6 +160,7 @@ Anime2Real's Server</p>
 </td>
 </tr>
 </table>
+</div>
 
 ## 📄 ライセンスと免責事項
 

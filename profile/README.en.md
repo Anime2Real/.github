@@ -28,9 +28,26 @@ Anime2Real is an open-source organization turning characters from static designs
 
 ## 🏗️ What We Build
 
-| 01 · Data | 02 · Voice | 03 · Persona | 04 · Visuals | 05 · Embodiment |
-| :---: | :---: | :---: | :---: | :---: |
-| Voice collection & annotation | Speech synthesis / recognition | Dialogue & persona design | Live2D / motion driving | Desktop / mobile / robots |
+<table>
+<thead>
+<tr>
+<th align="center" width="190">01 · Data</th>
+<th align="center" width="190">02 · Voice</th>
+<th align="center" width="190">03 · Persona</th>
+<th align="center" width="190">04 · Visuals</th>
+<th align="center" width="190">05 · Embodiment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Voice collection &amp; annotation</td>
+<td align="center">Speech synthesis / recognition</td>
+<td align="center">Dialogue &amp; persona design</td>
+<td align="center">Live2D / motion driving</td>
+<td align="center">Desktop / mobile / robots</td>
+</tr>
+</tbody>
+</table>
 
 Each module works on its own, and together they form a complete character pipeline.
 
@@ -44,40 +61,94 @@ These are the currently public repositories. More modules will be opened up grad
 
 ### 🎙️ Data
 
-| Repository | Description |
-| --- | --- |
-| [Chobits-Chii-Voice](https://github.com/Anime2Real/Chobits-Chii-Voice) | Character voice dataset: extracted from all 24 episodes, 487 segments (~21.4 minutes), manually annotated and fully re-listened · [🤗 Dataset](https://huggingface.co/datasets/chenxin199305/Chobits-Chii-Voice) |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">Repository</th>
+<th align="left" width="720">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Voice">Chobits-Chii-Voice</a></td>
+<td valign="top">Character voice dataset: extracted from all 24 episodes, 487 segments (~21.4 minutes), manually annotated and fully re-listened · <a href="https://huggingface.co/datasets/chenxin199305/Chobits-Chii-Voice">🤗 Dataset</a></td>
+</tr>
+</tbody>
+</table>
 
 ### 🧠 Models & Services
 
-| Repository | Description |
-| --- | --- |
-| [Chobits-Chii-TTS](https://github.com/Anime2Real/Chobits-Chii-TTS) | Character text-to-speech model: fine-tuned GPT-SoVITS v2Pro, weights released · [🤗 Model](https://huggingface.co/chenxin199305/Chobits-Chii-TTS) |
-| [Chobits-Chii-ASR](https://github.com/Anime2Real/Chobits-Chii-ASR) | Speech recognition service: Fun-ASR-Nano-2512 deployment + OpenAI-compatible facade, with Qwen3-ASR switchover reserved |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">Repository</th>
+<th align="left" width="720">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-TTS">Chobits-Chii-TTS</a></td>
+<td valign="top">Character text-to-speech model: fine-tuned GPT-SoVITS v2Pro, weights released · <a href="https://huggingface.co/chenxin199305/Chobits-Chii-TTS">🤗 Model</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-ASR">Chobits-Chii-ASR</a></td>
+<td valign="top">Speech recognition service: Fun-ASR-Nano-2512 deployment + OpenAI-compatible facade, with Qwen3-ASR switchover reserved</td>
+</tr>
+</tbody>
+</table>
 
 ### 🖥️ Applications
 
-| Repository | Description |
-| --- | --- |
-| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | Desktop release channel for the AI character: release artifacts and auto-update metadata |
-| [Chobits-Chii-LiveTalk-Release](https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release) | Release channel and download page for the voice-first LiveTalk desktop app: macOS / Windows / Linux installers and auto-update metadata · [🌐 Download](https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/) |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">Repository</th>
+<th align="left" width="720">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Mascot-Release">Chobits-Chii-Mascot-Release</a></td>
+<td valign="top">Desktop release channel for the AI character: release artifacts and auto-update metadata</td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release">Chobits-Chii-LiveTalk-Release</a></td>
+<td valign="top">Release channel and download page for the voice-first LiveTalk desktop app: macOS / Windows / Linux installers and auto-update metadata · <a href="https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/">🌐 Download</a></td>
+</tr>
+</tbody>
+</table>
 
 ### 🧩 Plugins
 
-| Repository | Description |
-| --- | --- |
-| [Chobits-Chii-DSH](https://github.com/Anime2Real/Chobits-Chii-DSH) | Theme plugin for the DeepSeek Harness (DSH) Web UI: neutral warm palette + Polaroid-style photo wall · `dsh-plugin` |
-| [Chobits-Chii-Kimi](https://github.com/Anime2Real/Chobits-Chii-Kimi) | Theme plugin for Kimi Code CLI: warm cream, warm ink and low-saturation rose palette, with light and dark themes and automatic plugin sync |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">Repository</th>
+<th align="left" width="720">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-DSH">Chobits-Chii-DSH</a></td>
+<td valign="top">Theme plugin for the DeepSeek Harness (DSH) Web UI: neutral warm palette + Polaroid-style photo wall · <code>dsh-plugin</code></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Kimi">Chobits-Chii-Kimi</a></td>
+<td valign="top">Theme plugin for Kimi Code CLI: warm cream, warm ink and low-saturation rose palette, with light and dark themes and automatic plugin sync</td>
+</tr>
+</tbody>
+</table>
 
 ## 💬 Community
 
 If you truly love anime, join our community (QQ or Discord) to talk about characters, models, and what comes next.
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 <p><strong>QQ Group</strong><br>
-Anime2Real · 809591826</p>
+Group 809591826</p>
 <p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ group QR code" width="170" height="170"></a></p>
 <p>Scan to join</p>
 </td>
@@ -89,6 +160,7 @@ Anime2Real's Server</p>
 </td>
 </tr>
 </table>
+</div>
 
 ## 📄 License & Disclaimer
 

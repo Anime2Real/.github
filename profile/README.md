@@ -28,9 +28,26 @@ Anime2Real 是一个开源组织，致力于把「角色」从静态设定变成
 
 ## 🏗️ 我们在构建什么
 
-| 01 · 数据 | 02 · 声音 | 03 · 人格 | 04 · 形象 | 05 · 载体 |
-| :---: | :---: | :---: | :---: | :---: |
-| 语音采集与标注 | 语音合成 / 识别 | 对话与人格设定 | Live2D / 动作驱动 | 桌面 / 移动端 / 机器人 |
+<table>
+<thead>
+<tr>
+<th align="center" width="190">01 · 数据</th>
+<th align="center" width="190">02 · 声音</th>
+<th align="center" width="190">03 · 人格</th>
+<th align="center" width="190">04 · 形象</th>
+<th align="center" width="190">05 · 载体</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">语音采集与标注</td>
+<td align="center">语音合成 / 识别</td>
+<td align="center">对话与人格设定</td>
+<td align="center">Live2D / 动作驱动</td>
+<td align="center">桌面 / 移动端 / 机器人</td>
+</tr>
+</tbody>
+</table>
 
 每个模块都可以单独使用，也可以组合成完整的角色链路。
 
@@ -44,40 +61,94 @@ Anime2Real 是一个开源组织，致力于把「角色」从静态设定变成
 
 ### 🎙️ 数据
 
-| 仓库 | 简介 |
-| --- | --- |
-| [Chobits-Chii-Voice](https://github.com/Anime2Real/Chobits-Chii-Voice) | 角色语音数据集：动画全 24 话提取，487 段约 21.4 分钟，人工标注 + 全量复听 · [🤗 Dataset](https://huggingface.co/datasets/chenxin199305/Chobits-Chii-Voice) |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">仓库</th>
+<th align="left" width="720">简介</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Voice">Chobits-Chii-Voice</a></td>
+<td valign="top">角色语音数据集：动画全 24 话提取，487 段约 21.4 分钟，人工标注 + 全量复听 · <a href="https://huggingface.co/datasets/chenxin199305/Chobits-Chii-Voice">🤗 Dataset</a></td>
+</tr>
+</tbody>
+</table>
 
 ### 🧠 模型与服务
 
-| 仓库 | 简介 |
-| --- | --- |
-| [Chobits-Chii-TTS](https://github.com/Anime2Real/Chobits-Chii-TTS) | 角色语音合成模型：GPT-SoVITS v2Pro 微调，权重已发布 · [🤗 Model](https://huggingface.co/chenxin199305/Chobits-Chii-TTS) |
-| [Chobits-Chii-ASR](https://github.com/Anime2Real/Chobits-Chii-ASR) | 语音识别服务：Fun-ASR-Nano-2512 部署 + OpenAI 兼容门面，预留 Qwen3-ASR 切换 |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">仓库</th>
+<th align="left" width="720">简介</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-TTS">Chobits-Chii-TTS</a></td>
+<td valign="top">角色语音合成模型：GPT-SoVITS v2Pro 微调，权重已发布 · <a href="https://huggingface.co/chenxin199305/Chobits-Chii-TTS">🤗 Model</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-ASR">Chobits-Chii-ASR</a></td>
+<td valign="top">语音识别服务：Fun-ASR-Nano-2512 部署 + OpenAI 兼容门面，预留 Qwen3-ASR 切换</td>
+</tr>
+</tbody>
+</table>
 
 ### 🖥️ 应用
 
-| 仓库 | 简介 |
-| --- | --- |
-| [Chobits-Chii-Mascot-Release](https://github.com/Anime2Real/Chobits-Chii-Mascot-Release) | AI 角色的桌面端发布渠道：Release 产物与自动更新元数据 |
-| [Chobits-Chii-LiveTalk-Release](https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release) | 语音桌面端 LiveTalk 的发布渠道与下载主页：macOS / Windows / Linux 安装包与自动更新元数据 · [🌐 下载](https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/) |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">仓库</th>
+<th align="left" width="720">简介</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Mascot-Release">Chobits-Chii-Mascot-Release</a></td>
+<td valign="top">AI 角色的桌面端发布渠道：Release 产物与自动更新元数据</td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-LiveTalk-Release">Chobits-Chii-LiveTalk-Release</a></td>
+<td valign="top">语音桌面端 LiveTalk 的发布渠道与下载主页：macOS / Windows / Linux 安装包与自动更新元数据 · <a href="https://anime2real.github.io/Chobits-Chii-LiveTalk-Release/">🌐 下载</a></td>
+</tr>
+</tbody>
+</table>
 
 ### 🧩 插件
 
-| 仓库 | 简介 |
-| --- | --- |
-| [Chobits-Chii-DSH](https://github.com/Anime2Real/Chobits-Chii-DSH) | DeepSeek Harness (DSH) Web UI 主题插件：中性暖调配色 + 拍立得照片墙 · `dsh-plugin` |
-| [Chobits-Chii-Kimi](https://github.com/Anime2Real/Chobits-Chii-Kimi) | Kimi Code CLI 主题插件：暖奶油、暖墨与低饱和玫瑰配色，含明暗两套主题与插件自动同步 |
+<table>
+<thead>
+<tr>
+<th align="left" width="250">仓库</th>
+<th align="left" width="720">简介</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-DSH">Chobits-Chii-DSH</a></td>
+<td valign="top">DeepSeek Harness (DSH) Web UI 主题插件：中性暖调配色 + 拍立得照片墙 · <code>dsh-plugin</code></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Kimi">Chobits-Chii-Kimi</a></td>
+<td valign="top">Kimi Code CLI 主题插件：暖奶油、暖墨与低饱和玫瑰配色，含明暗两套主题与插件自动同步</td>
+</tr>
+</tbody>
+</table>
 
 ## 💬 社区
 
 欢迎真正热爱二次元的你，加入社区（QQ 或 Discord），一起讨论角色、模型与未来载体。
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 <p><strong>QQ 群</strong><br>
-Anime2Real · 809591826</p>
+群号 809591826</p>
 <p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ 群二维码" width="170" height="170"></a></p>
 <p>扫码加入</p>
 </td>
@@ -89,6 +160,7 @@ Anime2Real's Server</p>
 </td>
 </tr>
 </table>
+</div>
 
 ## 📄 许可与声明
 
