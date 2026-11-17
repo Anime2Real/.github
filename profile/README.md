@@ -8,6 +8,7 @@
 	</p>
 	<p>
 		<a href="https://madewithlove.org.in"><img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-Love-ff69b4.svg"></a>
+		<a href="https://anime2real.cn/"><img alt="官网" src="https://img.shields.io/badge/Website-anime2real.cn-C86B84?logo=googlechrome&amp;logoColor=white"></a>
 		<a href="https://github.com/Anime2Real"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Anime2Real-181717?logo=github&amp;logoColor=white"></a>
 		<a href="https://huggingface.co/chenxin199305"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Anime2Real-FFD21E?logo=huggingface&amp;logoColor=black"></a>
 		<a href="https://discord.gg/nr3a8hfCFp"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&amp;logoColor=white"></a>
@@ -34,6 +35,10 @@ Anime2Real 是一个开源组织，致力于把「角色」从静态设定变成
 | 语音采集与标注 | 语音合成 / 识别 | 对话与人格设定 | Live2D / 动作驱动 | 桌面 / 移动端 / 机器人 |
 
 每个模块都可以单独使用，也可以组合成完整的角色链路。
+
+## 🌐 官方网站
+
+[**anime2real.cn**](https://anime2real.cn/) 是 Anime2Real 的官方主页：在这里可以查看角色链路的完整进度、下载 Mascot 与 LiveTalk 桌面客户端、浏览已开源的模型与插件，并了解官方语音服务。
 
 ## 📦 项目一览
 

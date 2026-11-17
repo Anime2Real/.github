@@ -8,6 +8,7 @@
 	</p>
 	<p>
 		<a href="https://madewithlove.org.in"><img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-Love-ff69b4.svg"></a>
+		<a href="https://anime2real.cn/"><img alt="公式サイト" src="https://img.shields.io/badge/Website-anime2real.cn-C86B84?logo=googlechrome&amp;logoColor=white"></a>
 		<a href="https://github.com/Anime2Real"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Anime2Real-181717?logo=github&amp;logoColor=white"></a>
 		<a href="https://huggingface.co/chenxin199305"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Anime2Real-FFD21E?logo=huggingface&amp;logoColor=black"></a>
 		<a href="https://discord.gg/nr3a8hfCFp"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&amp;logoColor=white"></a>
@@ -34,6 +35,10 @@ Anime2Real は、キャラクターを静的な設定から対話できる存在
 | 音声の収集・注釈 | 音声合成 / 認識 | 対話と人格設定 | Live2D / モーション | デスクトップ / モバイル / ロボット |
 
 各モジュールは単独でも使え、組み合わせることでキャラクターの一貫したチェーンになります。
+
+## 🌐 公式サイト
+
+[**anime2real.cn**](https://anime2real.cn/) は Anime2Real の公式サイトです。キャラクター・パイプラインの進捗、Mascot / LiveTalk デスクトップアプリのダウンロード、公開済みのモデルとプラグイン、公式音声サービスをまとめて確認できます。
 
 ## 📦 プロジェクト一覧
 

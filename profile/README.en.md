@@ -8,6 +8,7 @@
 	</p>
 	<p>
 		<a href="https://madewithlove.org.in"><img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-Love-ff69b4.svg"></a>
+		<a href="https://anime2real.cn/"><img alt="Website" src="https://img.shields.io/badge/Website-anime2real.cn-C86B84?logo=googlechrome&amp;logoColor=white"></a>
 		<a href="https://github.com/Anime2Real"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Anime2Real-181717?logo=github&amp;logoColor=white"></a>
 		<a href="https://huggingface.co/chenxin199305"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Anime2Real-FFD21E?logo=huggingface&amp;logoColor=black"></a>
 		<a href="https://discord.gg/nr3a8hfCFp"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&amp;logoColor=white"></a>
@@ -34,6 +35,10 @@ Anime2Real is an open-source organization turning characters from static designs
 | Voice collection & annotation | Speech synthesis / recognition | Dialogue & persona design | Live2D / motion driving | Desktop / mobile / robots |
 
 Each module works on its own, and together they form a complete character pipeline.
+
+## 🌐 Official Website
+
+[**anime2real.cn**](https://anime2real.cn/) is Anime2Real's official website: follow the full pipeline's progress, download the Mascot and LiveTalk desktop apps, browse the open-source models and plugins, and learn about the official voice service.
 
 ## 📦 Projects
 
