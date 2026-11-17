@@ -77,14 +77,14 @@ Anime2Real 是一个开源组织，致力于把「角色」从静态设定变成
 <tr>
 <td width="50%" valign="top" align="center">
 <p><strong>QQ 群</strong><br>
-Anime2Real · 群号 809591826</p>
-<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ 群二维码" width="170"></a></p>
+Anime2Real · 809591826</p>
+<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ 群二维码" width="170" height="170"></a></p>
 <p>扫码加入</p>
 </td>
 <td width="50%" valign="top" align="center">
 <p><strong>Discord</strong><br>
 Anime2Real's Server</p>
-<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 邀请二维码" width="170"></a></p>
+<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 邀请二维码" width="170" height="170"></a></p>
 <p>扫码或点击加入</p>
 </td>
 </tr>

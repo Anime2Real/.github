@@ -78,13 +78,13 @@ Anime2Real は、キャラクターを静的な設定から対話できる存在
 <td width="50%" valign="top" align="center">
 <p><strong>QQ グループ</strong><br>
 Anime2Real · 809591826</p>
-<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ グループの QR コード" width="170"></a></p>
+<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ グループの QR コード" width="170" height="170"></a></p>
 <p>QR コードで参加</p>
 </td>
 <td width="50%" valign="top" align="center">
 <p><strong>Discord</strong><br>
 Anime2Real's Server</p>
-<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 招待 QR コード" width="170"></a></p>
+<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord 招待 QR コード" width="170" height="170"></a></p>
 <p>QR コードまたはクリックで参加</p>
 </td>
 </tr>

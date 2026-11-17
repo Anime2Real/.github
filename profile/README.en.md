@@ -77,14 +77,14 @@ If you truly love anime, join our community (QQ or Discord) to talk about charac
 <tr>
 <td width="50%" valign="top" align="center">
 <p><strong>QQ Group</strong><br>
-Anime2Real · Group 809591826</p>
-<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ group QR code" width="170"></a></p>
+Anime2Real · 809591826</p>
+<p><a href="../resource/qq_group.jpg"><img src="../resource/qq_group_qr.jpg" alt="Anime2Real QQ group QR code" width="170" height="170"></a></p>
 <p>Scan to join</p>
 </td>
 <td width="50%" valign="top" align="center">
 <p><strong>Discord</strong><br>
 Anime2Real's Server</p>
-<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord invite QR code" width="170"></a></p>
+<p><a href="https://discord.gg/nr3a8hfCFp"><img src="../resource/discord_invite.png" alt="Anime2Real Discord invite QR code" width="170" height="170"></a></p>
 <p>Scan or click to join</p>
 </td>
 </tr>
