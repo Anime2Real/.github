@@ -136,6 +136,10 @@ Anime2Real 是一个开源组织，致力于把「角色」从静态设定变成
 <td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Kimi">Chobits-Chii-Kimi</a></td>
 <td valign="top">Kimi Code CLI 主题插件：暖奶油、暖墨与低饱和玫瑰配色，含明暗两套主题与插件自动同步</td>
 </tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Claude">Chobits-Chii-Claude</a></td>
+<td valign="top">Claude Code 主题插件：暖奶油、暖墨与低饱和玫瑰配色，含明暗两套主题 · <code>claude-plugin</code></td>
+</tr>
 </tbody>
 </table>
 

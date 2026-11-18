@@ -136,6 +136,10 @@ Anime2Real は、キャラクターを静的な設定から対話できる存在
 <td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Kimi">Chobits-Chii-Kimi</a></td>
 <td valign="top">Kimi Code CLI 向けテーマプラグイン：ウォームクリーム、ウォームインク、低彩度ローズの配色。ライト／ダーク 2 種類のテーマとプラグイン自動同期を搭載</td>
 </tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Claude">Chobits-Chii-Claude</a></td>
+<td valign="top">Claude Code 向けテーマプラグイン：ウォームクリーム、ウォームインク、低彩度ローズの配色。ライト／ダーク 2 種類のテーマ · <code>claude-plugin</code></td>
+</tr>
 </tbody>
 </table>
 

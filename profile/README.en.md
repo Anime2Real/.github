@@ -136,6 +136,10 @@ These are the currently public repositories. More modules will be opened up grad
 <td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Kimi">Chobits-Chii-Kimi</a></td>
 <td valign="top">Theme plugin for Kimi Code CLI: warm cream, warm ink and low-saturation rose palette, with light and dark themes and automatic plugin sync</td>
 </tr>
+<tr>
+<td valign="top"><a href="https://github.com/Anime2Real/Chobits-Chii-Claude">Chobits-Chii-Claude</a></td>
+<td valign="top">Theme plugin for Claude Code: warm cream, warm ink and low-saturation rose palette, with light and dark themes · <code>claude-plugin</code></td>
+</tr>
 </tbody>
 </table>
 
