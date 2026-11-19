@@ -56,6 +56,8 @@ Anime2Real 的公开仓库采用 **「严格非商用 + 双授权」** 模式。
 
 本组织仓库的版权人统一为 `Anime2Real 组织`。对外签约代表、注册信息见 [`COPYRIGHT.md`](COPYRIGHT.md)；贡献者授权见 [`CONTRIBUTOR-ASSIGNMENTS.md`](CONTRIBUTOR-ASSIGNMENTS.md)。
 
+> 法律文件状态：`CLA.md`、`COMMERCIAL-LICENSE-TEMPLATE.md` 和 `Mascot-Release/LICENSE`（EULA）尚未经律师审阅，当前为草案；详见 [`LEGAL-REVIEW.md`](LEGAL-REVIEW.md)。
+
 ## 角色、声优与第三方权利
 
 本政策只覆盖 Anime2Real 拥有权利的内容。以下内容不随仓库授权：
