@@ -2,7 +2,7 @@
 	<img src="../resource/anime2real-logo.jpg" alt="Anime2Real" width="120" height="120" />
 	<h1>Anime2Real</h1>
 	<p><b>Break through the dimensional barrier!</b></p>
-	<p>Bringing anime characters into the real world with AI — an open-source chain from voice and persona to visuals and real-world embodiment.</p>
+	<p>Bringing anime characters into the real world with AI — a source-available chain from voice and persona to visuals and real-world embodiment.</p>
 	<p>
 		<a href="./README.md">简体中文</a> ｜ <a href="./README.ja.md">日本語</a> ｜ <a href="./README.en.md">English</a>
 	</p>
@@ -20,7 +20,7 @@
 
 > **Break the dimensional barrier and bring characters into the real world.**
 
-Anime2Real is an open-source organization turning characters from static designs into interactive presences. From voice data and voice cloning to persona dialogue and visual driving, and gradually toward real-world embodiments such as desktop, mobile, and robots, we are building a complete, reproducible, and extensible open-source chain.
+Anime2Real is a source-available organization turning characters from static designs into interactive presences. From voice data and voice cloning to persona dialogue and visual driving, and gradually toward real-world embodiments such as desktop, mobile, and robots, we are building a complete, reproducible, and extensible source-available chain.
 
 - **A complete chain**: data, voice, persona, visuals, and embodiments connect with each other instead of being scattered pieces.
 - **Open and reproducible**: code, data, and models are shared whenever possible to support research and further development.
@@ -53,7 +53,7 @@ Each module works on its own, and together they form a complete character pipeli
 
 ## 🌐 Official Website
 
-[**anime2real.cn**](https://anime2real.cn/) is Anime2Real's official website: follow the full pipeline's progress, download the Mascot and LiveTalk desktop apps, browse the open-source models and plugins, and learn about the official voice service.
+[**anime2real.cn**](https://anime2real.cn/) is Anime2Real's official website: follow the full pipeline's progress, download the Mascot and LiveTalk desktop apps, browse the source-available models and plugins, and learn about the official voice service.
 
 ## 📦 Projects
 
@@ -168,6 +168,8 @@ Anime2Real's Server</p>
 
 ## 📄 License & Disclaimer
 
-- The code, data, and models in each repository follow the `LICENSE` in that repository.
-- The copyright of the original anime, characters, and audio belongs to their respective rights holders. All projects under this organization are for study and research only; please do not use them for commercial purposes.
-- Related projects will be taken down if the rights holders so request.
+- **Source-available, not OSI open source**: Anime2Real uses a strict noncommercial + dual-licensing model. Code is under PolyForm Noncommercial 1.0.0; data, model weights, and designs are under CC BY-NC-SA 4.0.
+- **Commercial use requires a separate license**: for paid products, paid services, SaaS, or commercial training, contact us via the repository's `COMMERCIAL.md`.
+- **Prior versions**: versions previously released under MIT / Apache-2.0 / CC BY-NC-SA remain under those terms.
+- **Third-party rights**: original anime, character designs, voice likeness, and third-party assets belong to their respective rights holders; Anime2Real grants no rights to them.
+- See [LICENSING.md](../LICENSING.md) for the full policy, and [CLA.md](../CLA.md) before contributing.
