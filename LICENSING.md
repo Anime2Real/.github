@@ -28,9 +28,12 @@ Anime2Real 的公开仓库采用 **「严格非商用 + 双授权」** 模式。
 
 **重要**：已经以 MIT/Apache-2.0 发布的版本，任何人都可以继续按旧许可商用；双授权只对新版本生效。
 
+## 已解决
+
+- `Chobits-Chii-Mascot`：外部贡献者 yuqian 已全权授权 Anime2Real，仓库已切换为 PolyForm Noncommercial 1.0.0；此前以 MIT 发布的版本继续适用 MIT。见 [`CONTRIBUTOR-ASSIGNMENTS.md`](CONTRIBUTOR-ASSIGNMENTS.md) 与仓库 `LICENSE-HISTORY.md`。
+
 ## 例外
 
-- `Chobits-Chii-Mascot`：保留 MIT。仓库包含未签 CLA 的外部贡献者提交，未经其同意不能单方面改为非商用许可。见仓库 `LICENSING-NOTE.md`。
 - `Chobits-Chii-Pipecat`：上游 Pipecat 为 BSD-2-Clause，fork 保留上游许可。见仓库 `LICENSING-NOTE.md` 与 `NOTICE`。
 - `GPT-SoVITS`、`live2d-add-motion-sample-web-ui`：上游 fork，保留上游 MIT；不适用本政策，也不得改为 NC。
 - `Chobits-Chii-Mascot-Release`：二进制按 EULA 发布；源码不在该仓库。
@@ -51,7 +54,7 @@ Anime2Real 的公开仓库采用 **「严格非商用 + 双授权」** 模式。
 
 ## 版权归属
 
-本组织仓库的版权人统一写为 `Anime2Real`。如果 Anime2Real 尚未注册为法律实体，请在实际签署 CLA 或商业合同前，将权利人名改为实际自然人/公司，并完成著作权归属确认。详见 [`COPYRIGHT.md`](COPYRIGHT.md)。
+本组织仓库的版权人统一为 `Anime2Real 组织`。对外签约代表、注册信息见 [`COPYRIGHT.md`](COPYRIGHT.md)；贡献者授权见 [`CONTRIBUTOR-ASSIGNMENTS.md`](CONTRIBUTOR-ASSIGNMENTS.md)。
 
 ## 角色、声优与第三方权利
 

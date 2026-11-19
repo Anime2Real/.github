@@ -23,7 +23,7 @@
 | Chobits-Chii-KigurumiHead | 已改 | 无 | 设计 CC；代码 PolyForm |
 | Chobits-Chii-Live3D | 已改 | 无 | 设计 CC；代码 PolyForm |
 | Chobits-Chii-ServerDeploy | 已改 | 无 | 配置/脚本 PolyForm |
-| Chobits-Chii-Mascot | 例外 | 多分支 | 保留 MIT；外部贡献者未签 CLA |
+| Chobits-Chii-Mascot | 已改 | main + 7 个 origin 分支已同步 | 贡献者 yuqian 全权授权 Anime2Real；旧 MIT 版本继续适用 MIT |
 | Chobits-Chii-Mascot-Release | 例外 | 无 | 二进制 EULA；补商业授权入口 |
 | Chobits-Chii-Pipecat | 例外 | 无 | 上游 BSD-2；不能整体改 NC |
 | Chobits-Chii-Resource | 例外 | 无 | 第三方素材；无 LICENSE，默认保留所有权利 |
